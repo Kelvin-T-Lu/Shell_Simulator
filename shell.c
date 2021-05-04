@@ -1,8 +1,5 @@
-/* This is the only file you should update and submit. */
-
-/* Fill in your Name and GNumber in the following two comment fields
- * Name: Kelvin Lu
- * GNumber: G01194210
+ /*
+ * @Author Kelvin Lu
  */
 
 #include "shell.h"
